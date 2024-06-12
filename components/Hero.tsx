@@ -53,7 +53,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m John Doe, a Next.js Developer based in USA.
+            Hi! I&apos;m Aziz, a Frontend Web Developer
           </p>
 
           <a href="#about">
